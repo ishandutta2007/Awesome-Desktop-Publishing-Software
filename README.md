@@ -57,9 +57,9 @@ Sorted by parent company size (Revenue / Market Valuation) in descending order:
 
 The open-source DTP and page layout ecosystem ranges from full graphical desktop applications to cutting-edge programmable typesetting engines.
 
-Repositories below are sorted by **GitHub Star Count** in descending order.
+Repositories below are sorted by **GitHub Stars_Count** in descending order.
 
-| Repo | Description | Stars |
+| Repo | Description | GitHub_Stars |
 |------|-------------|-------|
 | **[LaTeX](https://github.com/latex3/latex2e)** 📄 | **Document preparation & typesetting system.** The gold standard for high-quality structured document layout, complex mathematical typesetting, and academic publishing. **LPPL-1.3c**. | [![Stars](https://img.shields.io/github/stars/latex3/latex2e?style=social&color=white)](https://github.com/latex3/latex2e/stargazers) |
 | **[Typst](https://github.com/typst/typst)** ⚡ | **Markup-based typesetting system built in Rust.** Designed to be as powerful as LaTeX while being easier to learn and fast (instant live preview). Features flexible layout grids and modern visual styling. **Apache-2.0**. | [![Stars](https://img.shields.io/github/stars/typst/typst?style=social&color=white)](https://github.com/typst/typst/stargazers) |
